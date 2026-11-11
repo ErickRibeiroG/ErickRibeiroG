@@ -20,64 +20,47 @@
 
 #
 
-<p style="display: inline-block;" align="center">
-  <kbd>
-    <kbd>Languages</kbd>
-    <br>
-    <kbd><sub><i>Programming with purpose</i></sub></kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  </kbd>
+<h4 align="center">I work with</h4>
 
+<p align="center">
   <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <kbd><sub><i>Building intuitive user interfaces</i></sub></kbd>
+    <kbd>Linguagens</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   </kbd>
 
   <kbd>
     <kbd>Back-end</kbd>
-    <br>
-    <kbd><sub><i>Building scalable, high-performance services</i></sub></kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  </kbd>
-
-  <br>
-
-  <kbd>
-    <kbd>Data & Analytics</kbd>
-    <br>
-    <kbd><sub><i>Turning data into insights</i></sub></kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
+    <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   </kbd>
 
   <kbd>
-    <kbd>Databases</kbd>
-    <br>
-    <kbd><sub><i>Structuring reliable data</i></sub></kbd>
+    <kbd>Front-end</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+    <img alt="React" src="https://img.shields.io/badge/-React-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   </kbd>
 
   <kbd>
-    <kbd>Tools</kbd>
-    <br>
-    <kbd><sub><i>Building, shipping & maintaining</i></sub></kbd>
+    <kbd>Ferramentas</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </kbd>
+</p>
+
+<h4 align="center">I am learning</h4>
+
+<p align="center">
+  <kbd>
+    <kbd>IA &amp; LLMs</kbd>
+    <br><br>
+    <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img alt="Transformers" src="https://img.shields.io/badge/-Transformers-%23FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+    <img alt="TRL" src="https://img.shields.io/badge/-TRL-%23FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+    <img alt="Datasets" src="https://img.shields.io/badge/-Datasets-%23FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   </kbd>
 </p>
 
@@ -97,4 +80,3 @@ My Portfolio: https://portfolioerick-ecru.vercel.app/
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
