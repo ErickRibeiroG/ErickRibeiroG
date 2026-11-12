@@ -24,7 +24,7 @@
 
 <p align="center">
   <kbd>
-    <kbd>Linguagens</kbd>
+    <kbd>Languages</kbd>
     <br><br>
     <img alt="Python" src="https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
